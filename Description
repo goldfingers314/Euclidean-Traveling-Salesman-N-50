@@ -1,0 +1,3 @@
+Used k-means and two iterations of dynamic programming to reduce the number of iterations drastically from exponential time.
+
+Further details in code.
